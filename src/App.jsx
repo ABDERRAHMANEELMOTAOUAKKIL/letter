@@ -1,11 +1,10 @@
-
 import LoveLetter from './components/LoveLetter';
 
 
 
 function App() {
   return (
-    <div className='dark:bg-black '>
+    <div>
 
     <LoveLetter />
 
